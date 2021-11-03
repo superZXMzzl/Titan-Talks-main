@@ -1,0 +1,12 @@
+.App {
+  background-color:#00274c;
+  text-align: center;
+  color: black;
+  min-height: 100vh;
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 10px;
+  height: 70px;
+  width: 100vw;
+}

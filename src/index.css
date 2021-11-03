@@ -1,0 +1,8 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./styles/App.css";
+@import "./styles/Login.css";
+@import "./styles/Footer.css";
